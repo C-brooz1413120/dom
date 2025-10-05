@@ -1,6 +1,6 @@
 {
-  "name": "Two Player Random Game",
-  "short_name": "2P Game",
+  "name": "DOM Game",
+  "short_name": "DOM",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#4facfe",
