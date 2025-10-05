@@ -1,7 +1,8 @@
 {
   "name": "DOM Game",
   "short_name": "DOM",
-  "start_url": ".",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#4facfe",
   "theme_color": "#00f2fe",
